@@ -23,3 +23,5 @@ in which pandemic reached to a peak of 152114 cases on 40th day and pandemic sto
 Grpah is plotted in the report for comparison of disease spread under all 5 strategies. Implementation of strategies are also discussed in detail in the report. 
 
 Python code for the simulation is also attached.  
+
+Excel file has day-wise disease spread data under all 5 strategies. 
